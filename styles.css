@@ -1,6 +1,6 @@
 body {
   font-family: "Lato", sans-serif;
-  background-image: <img src="https://github.com/strucidgames/imp/blob/main/img/star.jpeg">
+  background-image: url('/img/star.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
